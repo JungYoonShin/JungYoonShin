@@ -1,6 +1,6 @@
 ### Hello Word!👋
 
-<a href="[버튼을 눌렀을 때 이동할 링크](https://judyalwayswantscarrot.tistory.com/)" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-FFFFFF?style=for-the-badge&logo=tistory&logoColor=000000"/></a>
+<a href="https://judyalwayswantscarrot.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-FFFFFF?style=for-the-badge&logo=tistory&logoColor=000000"/></a>
 
 
 <!--
