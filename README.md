@@ -1,6 +1,6 @@
 ### Hello Word!👋
 
-<a href="https://judyalwayswantscarrot.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-808080?style=for-the-badge&logo=tistory&logoColor=808080"/></a>
+<a href="https://judyalwayswantscarrot.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>
 
 
 <!--
