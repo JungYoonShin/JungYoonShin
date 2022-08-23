@@ -19,11 +19,7 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungYoonShin&show_icons=true&theme=radical)
 
-username=[JungYoonShin]
-langs_count=[화면에 표기될 언어갯수]
-layout=[화면에 리스트 형식 혹은 통계치로 보여질지 여부]
-theme=[default는 white배경. 그 외 theme는 github-readme-stats 참조]
-() = https://github.com/JungYoonShin/JungYoonShin.git
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungYoonShin&layout=compact&theme=tokyonight)
 
 
 
