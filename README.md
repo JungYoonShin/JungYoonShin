@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   
 ##  :wave: Hello World!! :wave:
 I'm jungyoon and majoring in computer engineering. <br>
-And dreaming Bakend Developer.. <br>
+And dreaming Backend Developer.. <br>
  <br/> 
  <br/>
   
