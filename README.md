@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 <div align="center"> 
   
-##  :wave: Welcome my github profile ! :wave:
-Hellow World! <br>
+##  :wave: Hello World!! :wave:
 I'm jungyoon and majoring in computer engineering. <br>
 And dreaming Bakend Developer.. <br>
  <br/> 
